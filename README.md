@@ -1,16 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Always%20Enhance%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
-<h3 align="center">Hi 👋, I'm Harshvardhan Sharma</h3>
-<h3 align="center">Front End Developer || React Developer In (Deepmindz Inovations Pvt Ltd)</h3>
+<h3 align="center">I'm Harshvardhan Sharma 🧑‍💻</h3>
+<h3 align="center">Front End Developer | React Developer In (Deepmindz Inovations Pvt Ltd) 🏢</h3>
 <br>
 <h3> 💫 About Me: </h3>
 <p> 🔭 I’m currently working on Front End Projects</p>
 <p> 👯 I’m looking to collaborate on Technology</p>
 <p> 🤝 I’m looking for help with Projects</p>
 <p> 💬 Ask me about Python, React </p>
-
----
-
-<a href="https://hvsportfolio.netlify.app/" target="_blank" align="left">Connect with me 😎</a>
 
 ---
 
