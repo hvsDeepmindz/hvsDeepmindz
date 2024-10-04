@@ -1,13 +1,26 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" height="100%"></p> 
 
-<h3 align="center">I'm Harshvardhan Sharma 🧑‍💻</h3>
+<h1 align="center">I'm Harshvardhan Sharma 🧑‍💻</h1>
 <h3 align="center">Front End Developer | React Developer In (Deepmindz Inovations Pvt Ltd) 🏢</h3>
 <br>
 <h3> 💫 About Me: </h3>
-<p> 🔭 I’m currently working on Front End Projects</p>
-<p> 👯 I’m looking to collaborate on Technology</p>
-<p> 🤝 I’m looking for help with Projects</p>
-<p> 💬 Ask me about Python, React </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
+
+- 🔭 I’m currently working on **PharynxAI Projects**
+
+- 🌱 I’m currently learning **Python Fast API For Backend**
+
+- 👯 I’m looking to collaborate on **React Vite**
+
+- 🤝 I’m looking for help with **Consistent Projects**
+
+- 👨‍💻 All of my projects are available at [https://hvsportfolio.netlify.app/](https://hvsportfolio.netlify.app/)
+
+- 💬 Ask me about **React Vite, Python, Tailwindcss,**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Oieo_B2d026gnqBX8wFLaqWGfiUwkb-b/view?usp=drive_link](https://drive.google.com/file/d/1Oieo_B2d026gnqBX8wFLaqWGfiUwkb-b/view?usp=drive_link)
+
+- ⚡ Fun fact **I think I am attract with new Technology**
 
 ---
 
