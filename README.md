@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" height="100%"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" height="100%"></p>
 
 <h1 align="center">I'm Harshvardhan Sharma 🧑‍💻</h1>
 <h3 align="center">React Developer | Front End Development | PharynxAI (Deepmindz Inovations Pvt. Ltd)</h3>
